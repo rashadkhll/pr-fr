@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "sass": "^1.82.0"
+  },
+  "name": "project__frontend",
+  "version": "1.0.0",
+  "description": "lorem ",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass assets/scss/main.scss:assets/css/main.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
